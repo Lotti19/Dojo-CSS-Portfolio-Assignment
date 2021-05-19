@@ -1,0 +1,267 @@
+*   {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper    {
+    width: 890px;
+    height: 100%;
+    background-image: radial-gradient(circle,rgb(111,89,100),rgb(104,82,93),rgb(29,12,17));
+    margin: 5px;
+}
+
+.top    {
+    background-color:rgb(247,247,247);
+    width: 900px;
+    height: 50px;
+}
+
+h1  {
+    color: black;
+    display: inline-block;
+    font-family: cursive;
+    font-size: 30px;
+    padding: 1px;
+    margin-left: 15px;
+    margin-right: 310px;
+}
+
+h2  {
+    color: black;
+    display: inline-block;
+    padding: 10px;
+    font-family: helvetica, sans-serif;
+    font-size: 20px;
+}
+
+img    {
+    width: 350px;
+    border-style: ridge;
+    border-color: rgb(192,192,192);
+    border-width: 5px;
+    margin: 15px;
+}
+
+.about  {
+    width: 470px;
+    height: 235px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    background-image: linear-gradient( to right, rgb(254,253,254),rgb(218,203,217));
+    color: black;
+} 
+
+h3  {
+    color:rgb(255,255,255);
+    padding: 10px;
+    background-image: linear-gradient(rgb(177,176,181), gray,rgb(177,176,181));
+}
+
+.p1  {
+    text-align: justify;
+    padding: 10px;
+}
+
+.p2   {
+    text-align: justify;
+    padding: 10px;
+}
+
+.about a    {
+    display: block;
+    padding-right: 10px;
+    margin-top: 10px;
+    color: black;
+}
+
+.body   {
+    width: 830px;
+    height: 550px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.lamode {
+    width: 260px;
+    height: 525px;
+    display: inline-block;
+    vertical-align: top;
+    background-image: linear-gradient( to right, rgb(254,253,254),rgb(218,203,217));
+    color: black;
+}
+
+.lamode img     {
+    width: 260px;
+    border-style: none;
+    display: block;
+    margin: auto;
+}
+
+.lamode p {
+    padding: 10px;
+    text-align: justify;
+    height: 150px;
+}
+
+.lamode a {
+    text-decoration: none;
+    background-color: rgb(64,125,97);
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+    border-style: groove 5px;
+    border-color: black;
+    display: inline-block;
+    margin-left: 95px;
+}
+
+h4  {
+    background-image: linear-gradient(rgb(177,176,181), gray,rgb(177,176,181));
+    color: rgb(255,255,255);
+    padding: 5px;
+}
+
+.family {
+    width: 260px;
+    height: 525px;
+    display: inline-block;
+    vertical-align: top;
+    background-image: linear-gradient( to right, rgb(254,253,254),rgb(218,203,217));
+    color: black;
+    margin-left: 15px;
+}
+
+.family p     {
+    padding: 10px;
+    text-align: justify;
+    height: 150px;
+}
+
+.family img     {
+    width: 250px;
+    border-style: none;
+    display: block;
+    margin: auto;    
+}
+
+.family a   {
+    text-decoration: none;
+    background-color: rgb(64,125,97);
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+    border-style: groove 5px;
+    border-color: black;
+    display: inline-block;
+    margin-left: 70px;
+}
+
+.five   {
+    width: 270px;
+    height: 525px;
+    display: inline-block;
+    vertical-align: top;
+    color: black;
+    background-image: linear-gradient( to right, rgb(254,253,254),rgb(218,203,217));
+    margin-left: 15px;
+}
+
+.five img   {
+    width: 250px;
+    border-style: none;
+    display: block;
+    margin: auto;
+}
+
+.five p     {
+    padding: 10px;
+    text-align: justify;
+    height: 150px;
+}
+
+.five a {
+    text-decoration: none;
+    background-color: rgb(64,125,97);
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+    border-style: groove 5px;
+    border-color: black;
+    display: inline-block;
+    margin-left: 70px;
+}
+
+.bottom   {
+    background-color:rgb(247,247,247);
+    width: 900px;
+    height: 75px;
+    color: black;
+}
+
+table   {
+    display: inline-block;
+    margin-left: 330px;
+}
+
+table tr th   {
+    border: 2px solid black;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    padding: 3px;
+    font-weight: lighter;
+}
+
+table #jdoe     {
+    border-left: none;
+}
+
+.socials    {
+    margin-left: 250px;
+}
+
+.socials img   {
+    width: 15px;
+    border: none;
+    vertical-align: top;
+}
+
+.socials p {
+    display: inline-block;
+    text-decoration: underline;
+    vertical-align: top;
+    padding-top: 7px;
+    padding-right: 7px;
+    font-style: italic;
+}
+
+.techbadges1 img {
+    width: 38px;
+    display: inline-block;
+    padding: 3px;
+}
+
+.techbadges1 {
+    padding: 5px;
+}
+
+.techbadges2 img    {
+    width: 38px;
+    display: inline-block;
+    padding: 3px; 
+}
+
+.techbadges2    {
+    padding: 5px;
+}
+
+.techbadges3 img    {
+    width: 38px;
+    display: inline-block;
+    padding: 3px; 
+}
+
+.techbadges3    {
+    padding: 5px;
+}
